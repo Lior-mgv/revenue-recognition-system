@@ -9,8 +9,8 @@ API for a software distributor, which allows to keep track of clients, make orde
 
 ### Managing clients
 **Domain models:**
-1. Client
-  a. Individual
+1. Client  
+  a. Individual  
   b. Company
 
 **Use cases:**
@@ -32,6 +32,6 @@ API for a software distributor, which allows to keep track of clients, make orde
 
 ### Calculating revenue
 **Use cases:**
-1. Calculate revenue (for all products/specific product, with an option to convert result to a different currency)
-   a. Calculate real revenue
+1. Calculate revenue (for all products/specific product, with an option to convert result to a different currency)  
+   a. Calculate real revenue  
    b. Calculate predicted revenue (i.e. including unsigned contracts)
