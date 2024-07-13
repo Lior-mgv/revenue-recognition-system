@@ -1,0 +1,25 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6405e17f_002Df362_002D490d_002Db36f_002D1f8e23dc3f6c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetTotalRevenue_ShouldReturnCorrectSum" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::FF098E69-89C3-4CF1-ABB0-C4A3090C0EBB::net8.0::ProjectTests.UnitTests.ContractServiceTests.GetTotalRevenue_ShouldReturnCorrectSum&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::FF098E69-89C3-4CF1-ABB0-C4A3090C0EBB::net8.0::ProjectTests.UnitTests.ContractServiceTests.GetProductRevenue_ShouldReturnCorrectSum&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::FF098E69-89C3-4CF1-ABB0-C4A3090C0EBB::net8.0::ProjectTests.UnitTests.ContractServiceTests.CreateContractAsync_ShouldCreateContract&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b5b9104b_002D51c8_002D4943_002D84ee_002D54cd5716ae30/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateContractAsync_ShouldCreateContract" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::FF098E69-89C3-4CF1-ABB0-C4A3090C0EBB::net8.0::ProjectTests.UnitTests.ContractServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dd1113f1_002D1f03_002D48fb_002D8400_002D18902da9a88b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f25e1c52_002Dfd80_002D4bfe_002Db8b4_002De01bfbc75907/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ClientServiceTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::FF098E69-89C3-4CF1-ABB0-C4A3090C0EBB::net8.0::ClientServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
