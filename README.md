@@ -35,3 +35,9 @@ API for a software distributor, which allows to keep track of clients, make orde
 1. Calculate revenue (for all products/specific product, with an option to convert result to a different currency)  
    a. Calculate real revenue  
    b. Calculate predicted revenue (i.e. including unsigned contracts)
+
+## Authorization
+Supports JWT token authorization.
+
+## Testing
+Unit tests, covering all main functionality are implemented  
